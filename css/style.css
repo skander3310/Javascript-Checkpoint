@@ -1,0 +1,98 @@
+body{
+background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);margin: 0px;
+background-size: cover;
+background-repeat: no-repeat;
+height:2000px 
+}
+    
+
+a{color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: red
+}
+
+ 
+h1,h3{font-size: 3em}
+h1,h3{color: white}
+h1,h3{
+  height: 10px;
+  width: 280px;}
+  label{color: white}
+#s{
+  margin-top: 5px;
+  width: 50px
+}
+.a{display: flex}
+.b ul{display: flex;
+list-style: none;
+justify-content: space-around;
+justify-content: center;
+width: 100%;
+justify-content: space-around
+}
+.b{
+  width: 100%;
+}
+.e{
+  width: 100%;
+  display: flex;
+  justify-content: center
+}
+.c{display: flex;
+  justify-content: center;justify-content:space-around;}
+
+  .center{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .f{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .g{
+    display: flex;
+    align-items: center;flex-direction: column;
+  }
+  .flou img{
+        width: 100% ;
+        background: center; height: 600px
+          
+  }
+    .courses{
+      position: absolute;
+      top: 230px;
+      left: 550px;font-size:40px;text-shadow: 5px 2px rgb(12, 11, 11);
+    }
+    .images{display: flex;
+      justify-content: center;justify-content:space-around ; 
+    width: 500px;
+  margin: 15px;}
+  .im {margin: 15px}
+  .feedback { color: white ;}
+  .contact label{display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;}
+    .forminput{display: block;padding: 6px 12px;border: 1px solid #ccc;}
+ 
+    
+ 
+
+     
+    
+   
+ 
+  
+
+ 
+
+  
+
+
